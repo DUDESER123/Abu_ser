@@ -39,7 +39,7 @@
 <br>
 
 <a href="https://heroku.com/deploy?template=https:/
-git github.com/DUDESER123/Abu_s hub.com/DUDESER123/Abu_ser.><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+git github.com/DUDESER123/Abu_s hub.com/DUDESER123/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
